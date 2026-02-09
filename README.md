@@ -5,7 +5,7 @@ This repository shows how I think and how I work with data, not only which tools
 
 ---
 
-## What I Do
+## What I Do:
 
 I use data to reduce uncertainty in decision-making.
 
@@ -17,7 +17,7 @@ My work typically includes:
 
 ---
 
-## Tools & Methods
+## Tools & Methods:
 
 I use SQL, Python, Excel, Power BI, Tableau and Metabase to explore data, validate assumptions, and support decisions.
 
