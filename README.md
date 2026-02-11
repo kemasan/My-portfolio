@@ -28,6 +28,21 @@ My analytical workflow covers:
 - Dashboard and report design  
 - Basic statistics and trend analysis  
 
-Tools are chosen based on the problem, not by habit.
+Tools are chosen based on the problem.
+
+---
+
+## Projects in This Repository
+
+Each project answers a specific business question.
+
+I focus on:
+- Why the question matters  
+- How the data is structured  
+- Which assumptions are made  
+- What trade-offs exist  
+- How conclusions change when assumptions change  
+
+
 
 
