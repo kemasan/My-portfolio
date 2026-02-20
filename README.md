@@ -43,9 +43,10 @@ I focus on:
 - What trade-offs exist  
 - How conclusions change when assumptions change
 
+
 ### Projects:
 
-💹 #### DeFi Solvency & Risk Monitoring — GMX V2 Dashboard
+### 💹 DeFi Solvency & Risk Monitoring — GMX V2 Dashboard
 
 Business Question:
 Can liquidity pools remain solvent under extreme trader profitability?
@@ -61,10 +62,12 @@ SQL (DuneSQL), DeFi analytics, risk modeling, on-chain data analysis
 Outcome:
 Produced a monitoring system for identifying liquidity stress and asymmetric risk exposure.
 
-📂 Repository: [gmx-solvency-dashboard](https://github.com/kemasan/GMXV2-Risk-Solvency-Analysis/blob/main/README.md)
-🔗 Dashboard: https://dune.com/kemasan/gmx-v2-risk-and-solvency-analysis
+📂 Repository: [gmx-solvency-dashboard](https://github.com/kemasan/GMXV2-Risk-Solvency-Analysis/blob/main/README.md)                      
+🔗 Dashboard: https://dune.com/kemasan/gmx-v2-risk-and-solvency-analysis                                     
 
-📊 #### E-Commerce Inventory Analysis — ABC–XYZ Framework
+--- 
+
+### 📊 E-Commerce Inventory Analysis — ABC–XYZ Framework
 
 Business Question:
 Which products generate most revenue, and how stable is their demand over time?
@@ -84,11 +87,12 @@ SQL (DuckDB), data modeling, Pareto analysis, demand variability, Tableau dashbo
 Outcome:
 Identified high-impact, low-risk SKUs (AX / AY) and high-risk revenue contributors (AZ / CX) to support inventory and procurement decisions.
 
-🔗 Interactive Dashboard: https://public.tableau.com/authoring/ABC_17712246527350/ABCXYZInventorySegmentationRevenueConcentrationDemandStabilityAnalysis#1
+🔗 Interactive Dashboard: https://public.tableau.com/authoring/ABC_17712246527350/ABCXYZInventorySegmentationRevenueConcentrationDemandStabilityAnalysis#1             
+📂 Repository: [ecommerce-abc-xyz-analysis](https://github.com/kemasan/ecommerce_abc_xyz)                            
 
-📂 Repository: [ecommerce-abc-xyz-analysis](https://github.com/kemasan/ecommerce_abc_xyz)
+---
 
-📈 #### Market Anomaly Detection — Rolling Z-Score Framework
+### 📈 Market Anomaly Detection — Rolling Z-Score Framework
 
 Business Question:
 How can extreme price deviations be detected in volatile financial markets?
