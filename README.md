@@ -87,7 +87,7 @@ SQL (DuckDB), data modeling, Pareto analysis, demand variability, Tableau dashbo
 Outcome:
 Identified high-impact, low-risk SKUs (AX / AY) and high-risk revenue contributors (AZ / CX) to support inventory and procurement decisions.
 
-🔗 Interactive Dashboard: https://public.tableau.com/authoring/ABC_17712246527350/ABCXYZInventorySegmentationRevenueConcentrationDemandStabilityAnalysis#1             
+🔗 Interactive Dashboard: https://public.tableau.com/views/ABC_17712246527350/ABCXYZInventorySegmentationRevenueConcentrationDemandStabilityAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link            
 📂 Repository: [ecommerce-abc-xyz-analysis](https://github.com/kemasan/ecommerce_abc_xyz)                            
 
 ---
