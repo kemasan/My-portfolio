@@ -61,7 +61,6 @@ Outcome:
 Conducted a behavioral research study validating core engagement hypotheses, constructed an interactive Metabase dashboard for retention tracking, and provided data-driven product recommendations (such as hint triggers at the 4th failure to block churn and loss-aversion mechanics based on virtual balances).
 
 📂 Repository: [edtech-retention-ltv-strategy](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/README.md#-retention-growth--ltv-strategy)
-
 🔗 Dashboard: [Retention Growth Analysis](https://metabase.simulative.ru/dashboard/845-retention-growth-analysis?period_=)
 
 
@@ -106,8 +105,9 @@ SQL (DuckDB), data modeling, Pareto analysis, demand variability, Tableau dashbo
 Outcome:
 Identified high-impact, low-risk SKUs (AX / AY) and high-risk revenue contributors (AZ / CX) to support inventory and procurement decisions.
 
-🔗 Interactive Dashboard: https://public.tableau.com/views/ABC_17712246527350/ABCXYZInventorySegmentationRevenueConcentrationDemandStabilityAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link            
-📂 Repository: [ecommerce-abc-xyz-analysis](https://github.com/kemasan/ecommerce_abc_xyz)                            
+📂 Repository: [ecommerce-abc-xyz-analysis](https://github.com/kemasan/ecommerce_abc_xyz)    
+🔗 Interactive Dashboard: [E-Commerce Inventory Analysis — ABC–XYZ Framework](https://public.tableau.com/views/ABC_17712246527350/ABCXYZInventorySegmentationRevenueConcentrationDemandStabilityAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)            
+                        
 
 ---
 
