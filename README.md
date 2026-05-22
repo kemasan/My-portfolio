@@ -46,6 +46,25 @@ I focus on:
 
 ### Projects:
 
+### 📊 Retention Growth & LTV Strategy
+
+Business Question:
+Can we predict and prevent early user churn by identifying toxic friction and financial attachment thresholds?
+
+Description & Methodology: 
+Developed an EdTech retention and monetization framework by analyzing user logs tracking daily sessions, problem submission states, and virtual currency balances (CodeCoins). Using a Rolling Retention (Day N+) methodology to account for irregular learning patterns, this study mapped cohort heatmaps and user friction to identify exactly when users realize value versus when they quit. While this approach prevents underestimating long-term engagement, it trades off the ability to spot fading daily habits in favor of protecting overall user Lifetime Value (LTV).
+
+Key Skills: 
+SQL (PostgreSQL), Product Analytics, Behavioral Segmentation, Retention Modeling, Metabase Architecture.
+
+Outcome: 
+Conducted a behavioral research study validating core engagement hypotheses, constructed an interactive Metabase dashboard for retention tracking, and provided data-driven product recommendations (such as hint triggers at the 4th failure to block churn and loss-aversion mechanics based on virtual balances).
+
+📂 Repository: [edtech-retention-ltv-strategy](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/README.md#-retention-growth--ltv-strategy)
+
+🔗 Dashboard: [Retention Growth Analysis](https://metabase.simulative.ru/dashboard/845-retention-growth-analysis?period_=)
+
+
 ### 💹 DeFi Solvency & Risk Monitoring — GMX V2 Dashboard
 
 Business Question:
